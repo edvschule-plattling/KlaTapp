@@ -2,7 +2,7 @@
 KlaTapp ermöglicht Schülern und Mitarbeitern der EDV-Schulen des Landkreises Deggendorf in Plattling, aktuelle Stundenpläne und Prüfungstermine abzurufen.
 
 ## License
-KlaTapp is Copyright (C) 2015-2016 [EDV-Schule Plattling](https://www.edvschule-plattling.de)
+KlaTapp is copyright (C) 2015-2016 [EDV-Schule Plattling](http://www.edvschule-plattling.de)
 and is available under the terms of the GPL version 3 (or any later version,
 at your option).  See LICENSE.txt for license details.
 
