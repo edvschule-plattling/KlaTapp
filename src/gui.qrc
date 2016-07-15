@@ -1,17 +1,14 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>pics/headline.png</file>
         <file>Schedule.qml</file>
         <file>Settings.qml</file>
         <file>Appointments.qml</file>
-        <file>pics/logo1x1.png</file>
         <file>DayView.qml</file>
         <file>Toast.qml</file>
         <file>ToastComponent.qml</file>
         <file>Theme.qml</file>
         <file>Communicator.qml</file>
-        <file>pics/edvlogo.png</file>
         <file>Config.qml</file>
         <file>pics/edvlogo200.png</file>
         <file>pics/KlaTapp50.png</file>
