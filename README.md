@@ -18,6 +18,13 @@ KlaTapp is copyright (C) 2015-2016 [EDV-Schule Plattling](http://www.edvschule-p
 and is available under the terms of the GPL version 3 (or any later version,
 at your option).  See LICENSE.txt for license details.
 
+Excluded from GPL licensing are the logos of the school and KlaTapp:
+* pics/edvlogo200.png
+* pics/KlaTapp100.png
+* pics/KlaTapp50.png
+
+It is not allowed to use these logos in projects other than KlaTapp!
+
 KlaTapp uses the [LGPL](src/lgpl.txt)-Version of the [Qt-Framework](https://code.qt.io/cgit/qt/).
 See instructions for building the software above.
 
