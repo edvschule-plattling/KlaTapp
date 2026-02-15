@@ -2,26 +2,25 @@
 KlaTapp ermöglicht Schülern und Mitarbeitern der EDV-Schulen des Landkreises Deggendorf in Plattling, aktuelle Stundenpläne und Prüfungstermine abzurufen.
 
 ## Erstellen des Programms
-KlaTapp verwendet die [LGPL](src/lgpl.txt)-Version von Qt5 und ist unter Linux, Windows und Android lauffähig.
+KlaTapp verwendet die [LGPL](lgpl.txt)-Version von Qt6 und ist unter Linux, Windows und Android lauffähig.
 Zum Erstellen der App braucht man:
  * Eine C/C++-Umgebung
  * Für Android: Android SDK und NDK
- * Qt >= 5.6.x:
-   * Am einfachsten Qt-SDK (evtl. für Android) >= 5.6.x von qt.io
-   * Qt-Sourcecode erhältlich unter [git://code.qt.io/qt/qt5.git](https://code.qt.io/cgit/qt/qt5.git/)
+ * Qt >= 6.10.x:
+   * Am einfachsten Qt-SDK (evtl. für Android) >= 6.10.x von qt.io
+   * Qt-Sourcecode erhältlich unter [code.qt.io](https://code.qt.io)
  * Erstellen des Programms mit QtCreator
    * Projektdatei KlaTapp.pro öffnen und ausführen
    * Für Android: Ggf. Hinweise in der QtCreator-Dokumentation befolgen
  
 ## License
-KlaTapp is copyright (C) 2015-2016 [EDV-Schule Plattling](http://www.edvschule-plattling.de)
+KlaTapp is copyright (C) 2015-2026 [EDV-Schule Plattling](http://www.edvschule-plattling.de)
 and is available under the terms of the GPL version 3 (or any later version,
 at your option).  See LICENSE.txt for license details.
 
 Excluded from GPL licensing are the logos of the school and KlaTapp:
-* pics/edvlogo200.png
+* pics/logoEDVSchule300.png
 * pics/KlaTapp100.png
-* pics/KlaTapp50.png
 
 It is not allowed to use these logos in projects other than KlaTapp!
 

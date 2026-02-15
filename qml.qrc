@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Config.qml</file>
+        <file>Theme.qml</file>
+        <file>Toast.qml</file>
+        <file>ToastComponent.qml</file>
+        <file>Communicator.qml</file>
+        <file>main.qml</file>
+        <file>lgpl.txt</file>
+        <file>apache.txt</file>
+        <file>pics/logoEDVSchule300.png</file>
+        <file>DayView.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>RoomSearch.qml</file>
+        <file>pics/KlaTapp100.png</file>
+        <file>Appointments.qml</file>
+        <file>CalendarIcon.qml</file>
+        <file>Schedule.qml</file>
+        <file>pics/arrow_left.png</file>
+        <file>pics/arrow_right.png</file>
+        <file>pics/flash_black.svg</file>
+        <file>pics/flash_white.svg</file>
+        <file>pics/search_black.svg</file>
+        <file>pics/search_white.svg</file>
+        <file>pics/build_black.svg</file>
+        <file>pics/build_white.svg</file>
+        <file>pics/schedule_black.svg</file>
+        <file>pics/schedule_white.svg</file>
+        <file>pics/backward_white.svg</file>
+        <file>pics/forward_white.svg</file>
+        <file>pics/save_black.svg</file>
+        <file>pics/sync_black.svg</file>
+        <file>pics/syncproblem_black.svg</file>
+    </qresource>
+</RCC>
