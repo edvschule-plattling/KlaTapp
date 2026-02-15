@@ -24,7 +24,7 @@ Excluded from GPL licensing are the logos of the school and KlaTapp:
 
 It is not allowed to use these logos in projects other than KlaTapp!
 
-KlaTapp uses the [LGPL](src/lgpl.txt)-Version of the [Qt-Framework](https://code.qt.io/cgit/qt/).
+KlaTapp uses the [LGPL](lgpl.txt)-Version of the [Qt-Framework](https://qt.io).
 See instructions for building the software above.
 
 This program contains [Material Design icons by Google](https://github.com/google/material-design-icons/), available under
